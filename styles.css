@@ -1,0 +1,22 @@
+p {
+    color: blue;
+    font-size:medium;
+    margin: 20px;
+}
+span.larger {
+    font-size:x-large;
+    font-weight:bolder;
+}
+p.different_paragraphs {
+    text-decoration: underline;
+    color: green;
+    background-color: gray;
+}
+#unique_paragraph {
+    color: red;
+    padding: 5mm;
+    border: solid black;
+}
+#yellow {
+    color: yellow;
+}
